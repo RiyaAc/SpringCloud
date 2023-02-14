@@ -1,18 +1,3 @@
-{  
-name: "limits-service",  
--profiles: [  
-"default"  
-],  
-label: null,  
-version:"0898c54ae1deb62733728e37e4c7962f529ee9ad",  
-state: null,  
--propertySources: [  
-- {  
-name: C:\Users\Riya.Achkarpohre\git-localconfig-repo\limits-service.properties",  
--source: {  
+ 
 limits-service-minimum: "8",  
 limits-service-maximum: "88"  
-}  
-}  
-]  
-}  
